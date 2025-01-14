@@ -9,7 +9,7 @@ Puedes guardar, listar, mostrar autores, ver libros por ao y hasta listar tus li
 
 Instalacion
 -
-Tener instalado el lenguaje y las librerias usadas posteriormente clonar el repositorio e iniciar el programa: 
+Tener instalado el lenguaje y las librerias usadas, configurara las variables de entorno (DB_HOST, DB_NAME, DB_USER, DB_PASSWORD) posteriormente clonar el repositorio e iniciar el programa: 
 - git clone https://github.com/mig-af/Literalura
 
 Lenguaje y librerias usadas 
